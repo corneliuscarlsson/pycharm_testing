@@ -6,11 +6,7 @@ import numpy as np
 # TODO: Fix Bug
 # TODO: Implement Tests
 print("Pycharm is Awesome")
-x = np.arange(0, 4 * np.pi, 0.1)
-y = np.sin(x)
 
-plt.plot(x, y)
-plt.show()
 
 def add(a, b):
     c = a + b
