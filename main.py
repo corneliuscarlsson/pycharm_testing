@@ -7,7 +7,7 @@ import numpy as np
 # TODO: Implement Tests
 print("Pycharm is Awesome")
 x = np.arange(0, 4 * np.pi, 0.1)
-y = np.sin(x)
+y = np.cos(x)
 
 plt.plot(x, y)
 plt.show()
